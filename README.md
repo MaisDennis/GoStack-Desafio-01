@@ -2,13 +2,13 @@
 
 Daily Exercise for nodejs - Rocketseat - GoStack - Desafio 01 - API - Middlewares
 
-Iniciar nodejs / nodemon
-```
-yarn dev
-```
-Import Insomnia File.
+1.  Iniciar nodejs / nodemon
+    ```
+    yarn dev
+    ```
+2.  Import Insomnia File.
 
-# Enunciado do projeto
+## Enunciado do projeto
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
